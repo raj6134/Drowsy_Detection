@@ -64,5 +64,7 @@ while True:
     cv2.imshow("Result of detector", face_frame)
     if cv2.waitKey(1) == 27:
         break
+    print("drowzyness_updated_version")
+    print("https://www.linkedin.com/in/rajdagam/")
 cap.release()
 cv2.destroyAllWindows()
